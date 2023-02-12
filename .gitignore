@@ -1,0 +1,17 @@
+# venv
+venv
+
+# django
+__pycache__
+*.sqlite3
+*.log
+
+# nuxt
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
